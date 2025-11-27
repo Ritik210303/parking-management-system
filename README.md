@@ -24,15 +24,16 @@ The goal was to understand:
 
 ## 📂 Repository Structure
 
+```
 parking-management-system/
 ├── sql/
-│ └── parking_management.sql
+│   └── parking_management.sql
 ├── docs/
-│ ├── ERD.png
-│ ├── relational_schema.png
-│ └── Case_Study_Report.docx
+│   ├── ERD.png
+│   ├── relational_schema.png
+│   └── Case_Study_Report.docx
 └── README.md
-
+```
 ## 🗃️ ER Diagram & Relational Schema
 
 Below are the key documents of the design phase:

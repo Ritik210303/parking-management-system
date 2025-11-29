@@ -31,7 +31,7 @@ parking-management-system/
 ├── docs/
 │   ├── ERD.png
 │   ├── relational_schema.png
-│   └── Case_Study_Report.docx
+│   └── Case_Study_Report.pdf
 └── README.md
 ```
 ## 🗃️ ER Diagram & Relational Schema
